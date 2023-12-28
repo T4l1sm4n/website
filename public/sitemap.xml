@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <url>
+        <loc>https://hugcis.github.io/hugo-astatine-theme/</loc>
+        <lastmod>2023-12-27T20:24:42-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://hugcis.github.io/hugo-astatine-theme/about/</loc>
+        <lastmod>2023-12-27T20:24:42-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://hugcis.github.io/hugo-astatine-theme/posts/</loc>
+        <lastmod>2023-12-27T20:24:42-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://hugcis.github.io/hugo-astatine-theme/posts/new/</loc>
+        <lastmod>2023-12-27T20:24:42-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://hugcis.github.io/hugo-astatine-theme/posts/second/</loc>
+        <lastmod>2023-12-27T19:37:36-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://hugcis.github.io/hugo-astatine-theme/posts/first/</loc>
+        <lastmod>2023-12-27T19:37:36-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://hugcis.github.io/hugo-astatine-theme/categories/</loc>
+    </url>
+    
+    <url>
+        <loc>https://hugcis.github.io/hugo-astatine-theme/tags/</loc>
+    </url>
+    
+</urlset>
