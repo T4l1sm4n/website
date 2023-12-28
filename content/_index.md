@@ -23,7 +23,7 @@ address:
     street: Freshie  
     postal_code: "Nest+M "
     locality: 
-    email: thet4l1sm4n@gmail.com
+    email: thet4l1sm4n at gmail dot com
 
 
 # === Optional fields ===
